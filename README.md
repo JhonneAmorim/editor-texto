@@ -19,28 +19,12 @@ O Editor de Texto React com Jodit é uma aplicação simples que permite a ediç
 - **Persistência Local:**
   - Suporte para gravar documentos localmente no navegador, permitindo que os usuários salvem e carreguem seus documentos.
 
-## Instalação e Uso
-
-### Instalação
-
-# Clone este repositório:
-
-   ```bash
-   git clone https://github.com/JhonneAmorim/editor-texto.git
-
-   cd editor-texto
-
-   npm install
-
-   npm start
-  ```
-
 # Contribuição
   - Sinta-se à vontade para contribuir para este projeto! Basta seguir estas etapas:
   
   - Faça um fork do repositório.
-  - Crie uma branch para sua nova funcionalidade (git checkout -b minha-nova-funcionalidade).
-  - Faça o commit de suas alterações (git commit -m 'Adiciona minha nova funcionalidade').
-  - Faça um push para a branch (git push origin minha-nova-funcionalidade).
+  - Crie uma branch para sua nova funcionalidade.
+  - Faça o commit de suas alterações.
+  - Faça um push para a branch.
   - Abra um pull request.
 
