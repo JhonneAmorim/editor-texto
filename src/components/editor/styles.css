@@ -1,0 +1,29 @@
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 10px;
+    gap: 20px;
+}
+
+button {
+    border: solid 1px #ccc000;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #d0d0d0;
+    color: #af10d2;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd2;
+}
+
+@media (max-width: 400px) {
+    button {
+        font-size: 13px;
+    }
+}
